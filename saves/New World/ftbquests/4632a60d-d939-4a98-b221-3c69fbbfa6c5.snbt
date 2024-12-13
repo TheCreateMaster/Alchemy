@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "4632a60dd9394a98b2213c69fbbfa6c5"
+	name: "thecreatemaster#4632a60d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

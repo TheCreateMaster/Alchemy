@@ -1,0 +1,17 @@
+{
+	id: "4632a60d-d939-4a98-b221-3c69fbbfa6c5"
+	type: "player"
+	player_name: "thecreatemaster"
+	ranks: {
+		4632a60d-d939-4a98-b221-3c69fbbfa6c5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "thecreatemaster"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFD259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

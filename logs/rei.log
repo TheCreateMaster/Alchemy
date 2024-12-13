@@ -1,0 +1,124 @@
+[11:01:47] [modloading-worker-0/INFO] ========================================
+[11:01:47] [modloading-worker-0/INFO] Minecraft: 1.20.1
+[11:01:47] [modloading-worker-0/INFO] Side: client
+[11:01:47] [modloading-worker-0/INFO] Development: false
+[11:01:47] [modloading-worker-0/INFO] Version: 12.1.785
+[11:01:47] [modloading-worker-0/INFO] Loader:
+[11:01:47] [modloading-worker-0/INFO] - Forge: 47.3.0
+[11:01:47] [modloading-worker-0/INFO] Dependencies:
+[11:01:47] [modloading-worker-0/INFO] - Cloth Config: 11.1.136
+[11:01:47] [modloading-worker-0/INFO] - Architectury: 9.2.14
+[11:01:47] [modloading-worker-0/INFO] Mixin: 0.8.5
+[11:01:47] [modloading-worker-0/INFO] OS: Linux 6.8.0-49-generic (amd64)
+[11:01:47] [modloading-worker-0/INFO] Java: 17.0.8 (Eclipse Adoptium)
+[11:01:47] [modloading-worker-0/INFO] ========================================
+[11:01:47] [modloading-worker-0/INFO] Mods:
+[11:01:47] [modloading-worker-0/INFO] - ad_astra: 1.15.19
+[11:01:47] [modloading-worker-0/INFO] - ae2: 15.2.15
+[11:01:47] [modloading-worker-0/INFO] - appleskin: 2.5.1+mc1.20.1
+[11:01:47] [modloading-worker-0/INFO] - appliede: 0.14.1
+[11:01:47] [modloading-worker-0/INFO] - architectury: 9.2.14
+[11:01:47] [modloading-worker-0/INFO] - bookshelf: 20.2.13
+[11:01:47] [modloading-worker-0/INFO] - botarium: 2.3.4
+[11:01:47] [modloading-worker-0/INFO] - cb_microblock: 3.3.0.146
+[11:01:47] [modloading-worker-0/INFO] - cb_multipart: 3.3.0.146
+[11:01:47] [modloading-worker-0/INFO] - cb_multipart_minecraft: 3.3.0.146
+[11:01:47] [modloading-worker-0/INFO] - cloth_config: 11.1.136
+[11:01:47] [modloading-worker-0/INFO] - clumps: 12.0.0.4
+[11:01:47] [modloading-worker-0/INFO] - codechickenlib: 4.4.0.516
+[11:01:47] [modloading-worker-0/INFO] - cofh_core: 11.0.2
+[11:01:47] [modloading-worker-0/INFO] - comforts: 6.4.0+1.20.1
+[11:01:47] [modloading-worker-0/INFO] - controlling: 12.0.2
+[11:01:47] [modloading-worker-0/INFO] - create: 0.5.1.j
+[11:01:47] [modloading-worker-0/INFO] - create_ad_astra_compat: 1.0.0
+[11:01:47] [modloading-worker-0/INFO] - create_dragon_lib: 1.4.3
+[11:01:47] [modloading-worker-0/INFO] - create_enchantment_industry: 1.2.9.d
+[11:01:47] [modloading-worker-0/INFO] - createmetallurgy: 0.0.6-1.20.1
+[11:01:47] [modloading-worker-0/INFO] - createsifter: 1.20.1-1.8.2.j-55
+[11:01:47] [modloading-worker-0/INFO] - cucumber: 7.0.13
+[11:01:47] [modloading-worker-0/INFO] - enchdesc: 17.1.19
+[11:01:47] [modloading-worker-0/INFO] - extendedcrafting: 6.0.7
+[11:01:47] [modloading-worker-0/INFO] - extendedgears: 2.1.1-1.20.1-0.5.1.f-forge
+[11:01:47] [modloading-worker-0/INFO] - farmersdelight: 1.20.1-1.2.6
+[11:01:47] [modloading-worker-0/INFO] - ferritecore: 6.0.1
+[11:01:47] [modloading-worker-0/INFO] - flywheel: 0.6.11-13
+[11:01:47] [modloading-worker-0/INFO] - forge: 47.3.0
+[11:01:47] [modloading-worker-0/INFO] - ftblibrary: 2001.2.6
+[11:01:47] [modloading-worker-0/INFO] - ftbquests: 2001.4.9
+[11:01:47] [modloading-worker-0/INFO] - ftbteams: 2001.3.0
+[11:01:47] [modloading-worker-0/INFO] - jade: 11.11.1+forge
+[11:01:47] [modloading-worker-0/INFO] - jei: 15.9999
+[11:01:47] [modloading-worker-0/INFO] - journeymap: 5.10.3
+[11:01:47] [modloading-worker-0/INFO] - kubejs: 2001.6.5-build.16
+[11:01:47] [modloading-worker-0/INFO] - kubejs_create: 2001.2.5-build.2
+[11:01:47] [modloading-worker-0/INFO] - kubejs_extended_crafting: 2001.5
+[11:01:47] [modloading-worker-0/INFO] - kubejs_thermal: 2001.1.10-build.2
+[11:01:47] [modloading-worker-0/INFO] - kubejsdelight: 1.1.2
+[11:01:47] [modloading-worker-0/INFO] - lootjs: 1.20.1-2.12.0
+[11:01:47] [modloading-worker-0/INFO] - lootr: 0.7.35.90
+[11:01:47] [modloading-worker-0/INFO] - minecraft: 1.20.1
+[11:01:47] [modloading-worker-0/INFO] - mixinextras: 0.3.2
+[11:01:47] [modloading-worker-0/INFO] - mousetweaks: 2.25.1
+[11:01:47] [modloading-worker-0/INFO] - naturescompass: 1.20.1-1.11.2-forge
+[11:01:47] [modloading-worker-0/INFO] - petrolpark: 1.0.2
+[11:01:47] [modloading-worker-0/INFO] - petrolsparts: 1.0.3
+[11:01:47] [modloading-worker-0/INFO] - polymorph: 0.49.5+1.20.1
+[11:01:47] [modloading-worker-0/INFO] - projecte: 1.0.1
+[11:01:47] [modloading-worker-0/INFO] - projectred_core: 4.19.0
+[11:01:47] [modloading-worker-0/INFO] - projectred_expansion: 4.19.0
+[11:01:47] [modloading-worker-0/INFO] - projectred_exploration: 4.19.0
+[11:01:47] [modloading-worker-0/INFO] - projectred_fabrication: 4.19.0
+[11:01:47] [modloading-worker-0/INFO] - projectred_illumination: 4.19.0
+[11:01:47] [modloading-worker-0/INFO] - projectred_integration: 4.19.0
+[11:01:47] [modloading-worker-0/INFO] - projectred_transmission: 4.19.0
+[11:01:47] [modloading-worker-0/INFO] - rei_plugin_compatibilities: 12.0.93
+[11:01:47] [modloading-worker-0/INFO] - resourcefulconfig: 2.1.2
+[11:01:47] [modloading-worker-0/INFO] - resourcefullib: 2.1.29
+[11:01:47] [modloading-worker-0/INFO] - rhino: 2001.2.3-build.6
+[11:01:47] [modloading-worker-0/INFO] - roughlyenoughitems: 12.1.785
+[11:01:47] [modloading-worker-0/INFO] - searchables: 1.0.3
+[11:01:47] [modloading-worker-0/INFO] - sophisticatedbackpacks: 3.20.17.1150
+[11:01:47] [modloading-worker-0/INFO] - sophisticatedcore: 1.0.0.807
+[11:01:47] [modloading-worker-0/INFO] - spectrelib: 0.13.15+1.20.1
+[11:01:47] [modloading-worker-0/INFO] - tfmg: 0.9.3-1.20.1
+[11:01:47] [modloading-worker-0/INFO] - thermal: 11.0.6
+[11:01:47] [modloading-worker-0/INFO] - thermal_cultivation: 11.0.1
+[11:01:47] [modloading-worker-0/INFO] - thermal_dynamics: 11.0.1
+[11:01:47] [modloading-worker-0/INFO] - thermal_expansion: 11.0.1
+[11:01:47] [modloading-worker-0/INFO] - thermal_foundation: 11.0.6
+[11:01:47] [modloading-worker-0/INFO] - thermal_innovation: 11.0.1
+[11:01:47] [modloading-worker-0/INFO] - thermal_integration: 11.0.1
+[11:01:47] [modloading-worker-0/INFO] - thermal_locomotion: 11.0.1
+[11:01:47] [modloading-worker-0/INFO] - vintageimprovements: 1.20.1-0.2.0.3
+[11:01:47] [modloading-worker-0/INFO] ========================================
+[11:01:47] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:search]: INSTANCE
+[11:01:47] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:manual]: INSTANCE
+[11:01:47] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:basic]: INSTANCE
+[11:01:48] [modloading-worker-0/INFO] [REI] Config loaded
+[11:01:48] [modloading-worker-0/DEBUG] [REI] Config saved
+[11:01:48] [modloading-worker-0/DEBUG] [REI] Config saved
+[11:01:48] [modloading-worker-0/DEBUG] [REI] Config saved
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider AE2 [ae2] for REIPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider REIForgePluginStub [ftblibrary] for REIPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider REI Plugin Compatibilities Client Handler [rei_plugin_compatibilities, jei] for REIPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider REIForgePluginStub [kubejs] for REIPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider ReiIsDumbClientPlugin [ad_astra] for REIPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider REI Plugin Compatibilities Adapter [rei_plugin_compatibilities, jei] for REIPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider REI Plugin Compatibilities Adapter [rei_plugin_compatibilities, jei] for REIServerPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultClientPluginImpl [roughlyenoughitems] for REIClientPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultClientPluginImpl [roughlyenoughitems] for REIPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[11:01:48] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:hidden_from_recipe_viewers]: INSTANCE
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIClientPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider AE2 [ae2] for REIClientPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider REIForgePluginStub [ftblibrary] for REIClientPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider REI Plugin Compatibilities Client Handler [rei_plugin_compatibilities, jei] for REIClientPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider REIForgePluginStub [kubejs] for REIClientPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider ReiIsDumbClientPlugin [ad_astra] for REIClientPlugin
+[11:01:48] [modloading-worker-0/INFO] [REI] Registered plugin provider REI Plugin Compatibilities Adapter [rei_plugin_compatibilities, jei] for REIClientPlugin
