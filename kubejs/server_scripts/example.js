@@ -49,23 +49,34 @@ BlockEvents.leftClicked('minecraft:crafting_table', event => {
     let level = event.server.getLevel("minecraft:overworld")
 
     let pointer = false
+    let face = false
 
     for (const [key, value] of Object.entries(OffsetAxis([bx, by, bz], 1, false , false))) {
         if (key == "up") {
             continue
         }
         let tempPointer = level.getBlock(value);
-        event.server.tell(tempPointer.id)
         if (tempPointer.id == "minecraft:lightning_rod") {
+            face = key
             pointer = tempPointer
             break
         }
     }
 
-    event.server.tell(pointer)
-
-
+    if (!pointer && pointer.properties.facing != face) {
+        event.server.tell("no pointer found")
+        return   
+    }
+    let target = level.getBlock(OffsetAxis([bx, by, bz], 2, face , false))
+    if (target.id != "minecraft:rail") {
+        event.server.tell("target is not a rail")
+        return
+    }
     let entities = level.getEntitiesWithin(AABB.of(bx-2,by-2,bz-2,bx+2,by+2,bz+2))
+    event.server.tell(entities)
+    event.server.tell(entities.x)
+
+
 })
 
 // BlockEvents.rightClicked('minecraft:crafting_table', event => {
